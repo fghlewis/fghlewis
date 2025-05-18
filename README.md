@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm George Lewis
 
-<!--
-**fghlewis/fghlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Business Analytics major at the University of Colorado Boulder  
+💻 Aspiring Data Analyst & future Data Engineer  
+📊 Passionate about data, problem-solving, and meaningful projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Languages
+
+- Python • SQL • Excel • Tableau
+
+---
+
+## 📂 Projects
+
+Check out my [Data Analysis Portfolio](https://github.com/fghlewis/Data-Analysis-Portfolio)
+
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/frederiklewis](https://www.linkedin.com/in/frederiklewis)
+- Email: frederikgeorge@gmail.com
+
+---
+
+_“Data is the new oil—I'm learning to refine it.”_
+
