@@ -22,7 +22,7 @@ Check out my [Data Analysis Portfolio](https://github.com/fghlewis/Data-Analysis
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/frederikgeorgelewis](https://www.linkedin.com/in/frederikgeorgelewis)
-- Email: frederikgeorge@gmail.com
+- Email: contact.georgelewis@gmail.com
 
 ---
 
