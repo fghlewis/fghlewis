@@ -8,7 +8,7 @@
 
 ## 🔧 Tools & Languages
 
-- Python • SQL • Excel • Tableau
+Python • SQL • Excel • Tableau
 
 ---
 
@@ -25,6 +25,4 @@ Check out my [Data Analysis Portfolio](https://github.com/fghlewis/Data-Analysis
 - Email: frederikgeorge@gmail.com
 
 ---
-
-_“Data is the new oil—I'm learning to refine it.”_
 
