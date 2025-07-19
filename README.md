@@ -8,7 +8,7 @@
 
 ## 🔧 Tools & Languages
 
-Python • SQL • Excel • Tableau
+Python • SQL • Excel
 
 ---
 
