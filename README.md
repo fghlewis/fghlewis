@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George Lewis
 
-🎓 I'm a Business Analytics major at the University of Colorado Boulder  
+🎓 I'm an Business Information Systems major at the University of Colorado Boulder  
 💻 Aspiring Data Analyst & future Data Engineer  
 📊 Passionate about data, problem-solving, and meaningful projects
 
