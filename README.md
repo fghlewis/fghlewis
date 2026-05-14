@@ -1,14 +1,26 @@
 # 👋 Hi, I'm George Lewis
 
 🎓 I'm an Business Information Systems major at the University of Colorado Boulder  
-💻 Aspiring Data Analyst & future Data Engineer  
+💻 Aspiring Data Engineer  
 📊 Passionate about data, problem-solving, and meaningful projects
 
 ---
 
-## 🔧 Tools & Languages
+## 🔧 Tools & Technologies
 
-Python • SQL • Excel
+**Programming Languages:** Python, SQL
+
+**Databases & Storage:** MongoDB (with Vector Add-on), MySQL, SQLite
+
+**Search & Retrieval:** Elasticsearch, Retrieval-Augmented Generation (RAG)
+
+**Analytics & BI:** Tableau, Excel
+
+**IDEs & Environments:** VS Code, JupyterLab, CLI
+
+**AI Assistants:** Claude Code, Gemini, ChatGPT
+
+**Version Control:** Git
 
 ---
 
@@ -23,7 +35,7 @@ I’m mostly a self-taught Python developer, so my portfolio is structured more 
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/frederikgeorgelewis](https://www.linkedin.com/in/frederikgeorgelewis)
-- Email: contact.georgelewis@gmail.com
+- Email: frederikgeorge@gmail.com
 
 ---
 
