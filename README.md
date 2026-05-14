@@ -20,7 +20,7 @@
 
 **AI Assistants:** Claude Code, Gemini, ChatGPT
 
-**Version Control:** Git
+**Version Control:** Github
 
 ---
 
